@@ -1,4 +1,4 @@
-const WA_NUMBER = '8797354898';
+const WA_NUMBER = '+918797354898';
 const PHONE_NUMBER = '+91 8797354898';
 const INSTA_URL = 'https://instagram.com/kanchanmishra8731?stkn=MTFhYjl3N3Z6b3J0eg%3D%3D';
 
